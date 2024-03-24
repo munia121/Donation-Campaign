@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Clean water for children",
+    "description": "A classic timepiece for every occasion.",
+    "category": "Health",
+    "price": 99.99,
+    "image": "https://i.ibb.co/RG8NQp2/images-6.jpg",
+    "cardBg": "#FF444A26",
+    "categoryBg": "#ffcc00",
+    "textColor": "#333"
+  },
+  {
+    "id": 2,
+    "title": "Good education",
+    "description": "Handcrafted leather wallet with multiple compartments.",
+    "category": "Education",
+    "price": 49.99,
+    "image": "https://i.ibb.co/Wy8X27X/download-1.jpg",
+    "cardBg": "#eaeaea",
+    "categoryBg": "#6699cc",
+    "textColor": "#444"
+  },
+  {
+    "id": 3,
+    "title": "Used Clothing Drive",
+    "description": "Capture timeless moments with this vintage camera.",
+    "category": "Clothing",
+    "price": 199.99,
+    "image": "https://i.ibb.co/4K4vNTN/istockphoto-1309112046-612x612.jpg",
+    "cardBg": "#f0f0f0",
+    "categoryBg": "#cc6699",
+    "textColor": "#555"
+  },
+  {
+    "id": 4,
+    "title": "Better Food for Everyone",
+    "description": "Enjoy high-quality sound with this portable Bluetooth speaker.",
+    "category": "Food",
+    "price": 79.99,
+    "image": "https://i.ibb.co/9qNXtKQ/istockphoto-1333790678-612x612.jpg",
+    "cardBg": "#f5f5f5",
+    "categoryBg": "#ff6666",
+    "textColor": "#666"
+  },
+  {
+    "id": 5,
+    "title": "Better Food for Everyone",
+    "description": "Lightweight and breathable shoes for your daily runs.",
+    "category": "Food",
+    "price": 129.99,
+    "image": "https://i.ibb.co/9qNXtKQ/istockphoto-1333790678-612x612.jpg",
+    "cardBg": "#f5f5f5",
+    "categoryBg": "#99cc66",
+    "textColor": "#777"
+  },
+  {
+    "id": 6,
+    "title": "Used Clothing Drive",
+    "description": "Protect your eyes in style with these designer sunglasses.",
+    "category": "Clothing",
+    "price": 159.99,
+    "image": "https://i.ibb.co/4K4vNTN/istockphoto-1309112046-612x612.jpg",
+    "cardBg": "#fafafa",
+    "categoryBg": "#cc9966",
+    "textColor": "#888"
+  },
+  {
+    "id": 7,
+    "title": "Good education",
+    "description": "Immerse yourself in the world of gaming with this console.",
+    "category": "Education",
+    "price": 299.99,
+    "image": "https://i.ibb.co/Wy8X27X/download-1.jpg",
+    "cardBg": "#fdfdfd",
+    "categoryBg": "#669966",
+    "textColor": "#999"
+  },
+  {
+    "id": 8,
+    "title": "Clean water for children",
+    "description": "Stay connected and track your fitness with this smartwatch.",
+    "category": "Health",
+    "price": 179.99,
+    "image": "https://i.ibb.co/RG8NQp2/images-6.jpg",
+    "cardBg": "#fcfcfc",
+    "categoryBg": "#996666",
+    "textColor": "#aaa"
+  },
+  {
+    "id": 9,
+    "title": "Clean water for children",
+    "description": "Spacious and durable backpack for your everyday adventures.",
+    "category": "Health",
+    "price": 89.99,
+    "image": "https://i.ibb.co/RG8NQp2/images-6.jpg",
+    "cardBg": "#fbfbfb",
+    "categoryBg": "#666699",
+    "textColor": "#bbb"
+  },
+  {
+    "id": 10,
+    "title": "Good education",
+    "description": "Monitor your health and fitness goals with this tracker.",
+    "category": "Education",
+    "price": 49.99,
+    "image": "https://i.ibb.co/Wy8X27X/download-1.jpg",
+    "cardBg": "#fafafa",
+    "categoryBg": "#996699",
+    "textColor": "#ccc"
+  },
+  {
+    "id": 11,
+    "title": "Used Clothing Drive",
+    "description": "Enjoy wireless freedom with these comfortable earbuds.",
+    "category": "Clothing",
+    "price": 129.99,
+    "image": "https://i.ibb.co/4K4vNTN/istockphoto-1309112046-612x612.jpg",
+    "cardBg": "#f9f9f9",
+    "categoryBg": "#6699cc",
+    "textColor": "#ddd"
+  },
+  {
+    "id": 12,
+    "title": "Better Food for Everyone",
+    "description": "Spacious duffle bag for your travel essentials.",
+    "category": "Food",
+    "price": 69.99,
+    "image": "https://i.ibb.co/9qNXtKQ/istockphoto-1333790678-612x612.jpg",
+    "cardBg": "#f8f8f8",
+    "categoryBg": "#cc6699",
+    "textColor": "#eee"
+  }
+]
